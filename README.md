@@ -2,6 +2,8 @@
 
 <h1>Advertiment project -1</h1>
 
+<h1>[Demo link]: https://curious-cucurucho-143982.netlify.app/</h1>
+
 
 </div>
 
@@ -12,7 +14,6 @@
 
 1. ![HTML][html-shield]
 2. ![CSS][css-shield]
-
 
 
 
@@ -31,7 +32,7 @@
 Took me almost `3` hours to build this from scratch. Majority of the time was spent on making it mobile responsive.
 
 
-[Demo link]: https://curious-cucurucho-143982.netlify.app/
+
 
 
 <!-- Tools and Technologies -->
