@@ -1,0 +1,147 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main-container {
+  position: relative;
+}
+
+.mainimg1 {
+  position: relative;
+  display: inline;
+  background-color: aqua;
+}
+
+#img1 {
+  width: 30vw;
+  height: 100vh;
+  background-image: url(/Advertisment-website1/images/mainimg.jpg);
+  background-size: cover;
+}
+
+.logo {
+  position: absolute;
+  top: 0;
+  width: 200px;
+  height: 50px;
+}
+#mainlogo {
+  width: 330px;
+  height: 170px;
+  background-image: url(/Advertisment-website1/images/pexels-cottonbro-7974875.jpg);
+  background-size: cover;
+  position: absolute;
+  left: 750px;
+  top:470px;
+  font-family:crossorigin ;
+}
+.heading{
+  /* border: 2px solid black; */
+  font-family: crossorigin;
+  font-size: 150px;
+  height: 100px;
+  width: 300px;
+  position: absolute;
+  left: 480px;
+  top: 50px;
+  -webkit-text-stroke: 1px;
+  -webkit-text-fill-color: transparent;
+}
+.heading2{
+  /* border: 2px solid black; */
+  font-size: 150px;
+  height: 100px;
+  width: 300px;
+  position: absolute;
+  left: 620px;
+  top: 180px;
+}
+.heading3{
+  /* border: 2px solid black; */
+  font-size: 20px;
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  left: 980px;
+  top: 250px;
+}
+.coma{
+  /* border: 2px solid black; */
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 750px;
+  top: 370px;
+}
+.imgcontent{
+  /* border: 2px solid black; */
+  font-size: 15px;
+  height: 40px;
+  width: 300px;
+  position: absolute;
+  left: 750px;
+  top: 420px;
+}
+.flex1{
+  text-transform:capitalize ;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  left: 480px;
+  top: 390px;
+  height: 180px;
+  width: 150px;
+}
+.imges{
+  position: absolute;
+  height: 200px;
+  width: 30px;
+  top: 70px;
+  right: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+.checkout{
+  position: absolute;
+  height: 30px;
+  width: 190px;
+  right: 180px;
+  top: 330px;
+  border: 2px solid black;
+  background-color: black;
+  color: white;
+  text-transform: capitalize;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav{
+  position: absolute;
+  height: 30px;
+  width: 300px;
+  top: 20px;
+  right:45px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+}
+.line{
+  position: absolute;
+  border:1px solid black;
+  width: 500px;
+  top: 35px;
+  right: 350px;
+
+}
+.line2{
+  position: absolute;
+  height: 150px;
+  width:100px;
+  bottom:0;
+  right:0;
+}
