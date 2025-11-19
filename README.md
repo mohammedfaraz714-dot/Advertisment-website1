@@ -31,6 +31,7 @@
 Took me almost `3` hours to build this from scratch. Majority of the time was spent on making it mobile responsive.
 
 
+[Demo link]: https://curious-cucurucho-143982.netlify.app/
 
 
 <!-- Tools and Technologies -->
